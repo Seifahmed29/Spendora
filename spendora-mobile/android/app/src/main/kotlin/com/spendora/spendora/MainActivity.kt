@@ -1,0 +1,5 @@
+package com.spendora.spendora
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
